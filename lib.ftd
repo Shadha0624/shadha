@@ -37,7 +37,7 @@ icon-2: $assets.files.assets.twit.svg
 url-2: https://twitter.com/trizwit
 icon-3: $assets.files.assets.github.svg
 url-3: https://github.com/Trizwit
-text:built by
+
 -- end: ftd.column
 
 -- end: page
