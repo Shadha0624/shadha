@@ -37,7 +37,7 @@ icon-2: $assets.files.assets.twit.svg
 url-2: https://twitter.com/trizwit
 icon-3: $assets.files.assets.github.svg
 url-3: https://github.com/Trizwit
-
+made with
 -- end: ftd.column
 
 -- end: page
@@ -364,7 +364,7 @@ ftd.image-src icon-2:
 string url-2:
 ftd.image-src icon-3:
 string url-3:
-
+string text
 -- ftd.column:
 align-self: center
 align-content: center
