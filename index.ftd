@@ -19,7 +19,7 @@ cta-button-1: Resume
 link-1: https://www.resume.com/
 cta-button-2: Schedule Meeting
 link-2: https://calendly.com/
-cover: $assets.files.assets.image.AVIF
+cover: $assets.files.assets.image.avif
 
 I am a B-tech computer science student at LBS Institute of Technology for Women
 
