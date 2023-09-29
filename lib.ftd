@@ -37,7 +37,7 @@ icon-2: $assets.files.assets.twit.svg
 url-2: https://twitter.com/trizwit
 icon-3: $assets.files.assets.github.svg
 url-3: https://github.com/Trizwit
-made with
+text:built by
 -- end: ftd.column
 
 -- end: page
@@ -168,7 +168,7 @@ margin-vertical.px: 10
 
 -- ftd.text: $header-mobile.logo-text
 margin-horizontal.px: 10
-text-align: center
+text-align:centre
 align-self: center
 color: white
 
