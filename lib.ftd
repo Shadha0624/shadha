@@ -364,7 +364,7 @@ ftd.image-src icon-2:
 string url-2:
 ftd.image-src icon-3:
 string url-3:
-string text
+
 -- ftd.column:
 align-self: center
 align-content: center
